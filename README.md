@@ -1,2 +1,2 @@
 # Calculator
-Basic standard calculator project 
+This is a basic standard calculator project. 
